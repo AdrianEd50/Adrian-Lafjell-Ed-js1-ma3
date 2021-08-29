@@ -1,9 +1,3 @@
-//Question 1
-
-//Convert the function below to an arrow function:
-
-const getRemainder = (a, b) => a % b;
-
 //Question 2
 
 //Make a call to the Rawg API.
@@ -51,3 +45,5 @@ async function getApi() {
 }
 
 getApi();
+
+// The list of tags on the API is 5, the API has 5 tags, (0-4).
